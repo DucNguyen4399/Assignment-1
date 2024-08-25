@@ -3,10 +3,10 @@ public class Btvn
 {  
     public static void main(String[] args)
     {
-        int number1=10;
-        int number2=2;
+        int number1=11;
+        int number2=22;
         
-        //Phep cong
+        //Phep Cong
         int sum=number1 + number2;
         System.out.println("Phep cong:" + number1 + "+" + number2 + "=" + sum);
         
