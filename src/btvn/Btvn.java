@@ -6,23 +6,23 @@ public class Btvn
         int number1=11;
         int number2=22;
         
-        //Phep Cong
+        //Phép Cộng
         int sum=number1 + number2;
         System.out.println("Phep cong:" + number1 + "+" + number2 + "=" + sum);
         
-        //Phep tru
+        //Phép trừ
         int dif=number1 - number2;
         System.out.println("Phep tru: " + number1 + "-" + number2 + "=" + dif);
         
-        //Phep nhan
+        //Phép Nhân
         int mul=number1 * number2;
         System.out.println("Phep nhan:" + number1 + "*" + number2 + "=" + mul);
                 
-        //Phep chia
+        //Phép chia
         int div=number1 / number2;
         System.out.println("Phep chia:" +number1 + "/" + number2 + "=" + div);
         
-        //Phep chia lay du
+        //Phép Chia Lấy Dư
         int divGetRemainder=number1 % number2;
         System.out.println("Phep chia lay du:" + number1 + "%" + number2 + "=" + divGetRemainder);
     }
